@@ -32,7 +32,7 @@ Ama bizim oyunumuzda öyle olmuyor: Ali bir karta tıkladığında, Ayşe'nin ek
 ## 3. Klasör haritası
 
 ```
-codenames/
+ver-ipin-ucunu/
 ├── server/                    ← Backend (Node.js)
 │   └── src/
 │       ├── index.js           ← Giriş noktası: sunucuyu ayağa kaldırır, socket olaylarını dinler

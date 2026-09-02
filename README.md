@@ -8,7 +8,7 @@ Gerçek zamanlı, mobil öncelikli, Türkçe, takım halinde oynanan bir kelime 
 ## Klasör Yapısı
 
 ```
-codenames/
+ver-ipin-ucunu/
 ├── package.json            # kök script'ler (ikisini birden çalıştırmak için)
 ├── server/
 │   ├── package.json
